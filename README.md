@@ -1,27 +1,21 @@
-# INSTADL
+# <center>INSTADL</center>
 ![up](https://user-images.githubusercontent.com/63474879/133498976-a4fe204c-7865-4a11-95c7-ddf3eed4d7ee.gif)
 
-# Hi Guys! 
+# <center>Hi Guys!</center> 
 
-**instadl** is a small project, made to download instagram video from given url in mp4 format
+<center>instadl is a small project, made to download instagram video from given url in mp4 format</center> 
 
 ## Before Using
 
-> First you have to install Python [from here](https://www.python.org/downloads/)
-
->  Then install requirements using pip
-
->  <code>pip install -r requirements.txt</code>
+- First you have to install Python [From Here](https://www.python.org/downloads/)
+-  Then install requirements using <code>pip install -r requirements.txt</code>
 
 ## How to use instadl
 
-> Open the terminal at your desired location and run
-
-> <code>python instadl.py</code>
-
-> Enter the URL and Filename when prompted
-
-> Voila!! You have download the video
+- Open the terminal at your desired location
+- Run <code>python instadl.py</code>
+- Enter the URL and Filename when prompted
+- Voila!! You have downloaded the video
 
 ## Intrested in contribution?
 
