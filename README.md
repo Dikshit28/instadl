@@ -1,13 +1,9 @@
-<p align="center">
-
 # INSTADL
 ![up](https://user-images.githubusercontent.com/63474879/133498976-a4fe204c-7865-4a11-95c7-ddf3eed4d7ee.gif)
 
 # Hi Guys!
 
 instadl is a small project, made to download instagram video from given url in mp4 format 
-
-</p>
 
 ## Before Using
 
