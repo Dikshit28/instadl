@@ -7,14 +7,19 @@ Hi Guys!
 ## Before Using
 
 > First you have to install Python [from here](https://www.python.org/downloads/)
+
 >  Then install requirements using pip
+
 >  <code>pip install -r requirements.txt</code>
 
 ## How to use instadl
 
 > Open the terminal at your desired location and run
+
 > <code>python instadl.py</code>
+
 > Enter the URL and Filename when prompted
+
 > Voila!! You have download the video
 
 ## Intrested in contribution?
